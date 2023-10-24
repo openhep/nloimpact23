@@ -2,7 +2,7 @@
 
 This is the code for the analysis done for the paper
 
-   * M. Čuić, G. Duplančić, K. Kumerički, and K. Passek-K.,  _NLO corrections to the deeply virtual meson production revisited: impact on the extraction of generalized parton distributions_, to be finished soon
+   * M. Čuić, G. Duplančić, K. Kumerički, and K. Passek-K.,  _NLO corrections to the deeply virtual meson production revisited: impact on the extraction of generalized parton distributions_, arXiv:[2310.13837](https://arxiv.org/abs/2310.13837)
 
 Jupyter/Python notebooks ``nloimpact.ipynb`` and  ``LT_separation.ipynb`` show in detail how numerical results
 and plots in the paper are obtained. They provide also some additional numerics and plots.
